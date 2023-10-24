@@ -6,7 +6,7 @@ Django==1.8.8
 django-braces==1.8.1
 django-crispy-forms==1.5.2
 django-filter==0.11.0
-django-grappelli==2.7.2
+django-grappelli==2.15.2
 django-model-utils==2.4
 django-nose==1.4.2
 django-oauth-toolkit==0.10.0
