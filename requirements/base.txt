@@ -12,7 +12,7 @@ django-nose==1.4.2
 django-oauth-toolkit==0.10.0
 django-pnm==0.1.6
 django-storages==1.1.8
-djangorestframework==3.3.2
+djangorestframework==3.15.2
 djangorestframework-jwt==1.7.2
 ecdsa==0.13
 Fabric==1.10.2
