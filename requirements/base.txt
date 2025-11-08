@@ -2,7 +2,7 @@ appnope==0.1.0
 boto==2.38.0
 decorator==4.0.6
 dj-database-url==0.3.0
-Django==1.8.8
+Django==4.2.26
 django-braces==1.8.1
 django-crispy-forms==1.5.2
 django-filter==0.11.0
